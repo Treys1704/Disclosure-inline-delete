@@ -63,7 +63,7 @@ export default function App() {
                                     <motion.div
                                         className="flex items-center justify-center w-full gap-2 duration-300 transition-transform"
                                         style={{
-                                            y: isDeleteOpen ? -55 : 0,
+                                            y: isDeleteOpen ? -57 : 0,
                                         }}
                                     >
                                         <button className="flex items-center justify-center p-3 w-full rounded-xl bg-red-500 text-white"
